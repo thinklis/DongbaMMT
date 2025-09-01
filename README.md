@@ -1,6 +1,6 @@
 # 📜 Multimodal Translation of Dongba Script (Work in Progress)
 
----
+
 
 ## ✨ Overview
 This repository will host resources related to our recent research on **machine translation of the endangered Dongba pictographic script**, leveraging **multimodal context** (e.g., images + text).  
@@ -34,7 +34,7 @@ For inquiries or collaborations:
 - **Institution:** Harbin Engineering University
 
 
----
+
 <p align="left">
   🔜 More details will be shared after acceptance. Stay tuned!
 </p>
